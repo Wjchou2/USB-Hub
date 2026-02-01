@@ -1,7 +1,12 @@
-# USB Hub
+# William's USB HUB
+
+A custom usb hub with 2 USB-A ports and a 4 pin header for easy access.
+
+
+<img width="782" height="543" alt="Screenshot 2026-01-31 at 4 56 15 PM" src="https://github.com/user-attachments/assets/bbd3fe22-d50d-4d83-bb3a-aaf3e4409bb0" />
+<img width="762" height="705" alt="Screenshot 2026-01-31 at 4 55 53 PM" src="https://github.com/user-attachments/assets/4c1286c5-0f7f-4fd4-be42-4f9010c4ccfb" />
 
 BOM:
-
 | Designator  | Footprint                                               | Quantity | Designation                 | Link                                                                                                       | Cost   | Total Cost |
 |-------------|---------------------------------------------------------|----------|-----------------------------|------------------------------------------------------------------------------------------------------------|--------|------------|
 | U2          | SOT-223                                                 | 1        | AMS1117-3.3                 | https://www.lcsc.com/product-detail/C6186.html?s_z=n_AMS1117-3.3                                           | 0.1876 | 0.1876     |
@@ -18,3 +23,5 @@ BOM:
 | F1          | Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder          | 1        | 0.5A                        | https://www.lcsc.com/product-detail/C7542969.html?s_z=n_PTC%2520fuse%25200.5A%25201812                     | 0.0403 | 0.0403     |
 | J1          | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal | 1        | USB_C_Receptacle_USB2.0_16P | https://www.lcsc.com/product-detail/C2988369.html?s_z=n_USB%2520C%2520receptacle%252016P%2520top%2520mount | 0.0829 | 0.0829     |
 | U1          | QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm                     | 1        | USB2514B_Bi                 | https://www.lcsc.com/product-detail/C220807.html?s_z=n_USB2514B%2520USB%2520hub%25204-port%2520Octopart    | 2.7952 | 2.7952     |
+| R10         | R_0603_1608Metric_Pad0.98x0.95mm_HandSolder             | 1        | 1.5kΩ                       | https://www.lcsc.com/product-detail/C22843.html?s_z=n_1.5k%25201%2525%25200603                             | 0.0012 | 0.0012     |
+| D1          | LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder           | 1        | LED                         | https://www.lcsc.com/search?q=LED%25200603%2520Green&s_z=n_LED%25200603%2520Green                          | 0.0667 | 0.0667     |
