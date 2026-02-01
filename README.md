@@ -5,6 +5,7 @@ A custom usb hub with 2 USB-A ports and a 4 pin header for easy access.
 
 <img width="782" height="543" alt="Screenshot 2026-01-31 at 4 56 15 PM" src="https://github.com/user-attachments/assets/bbd3fe22-d50d-4d83-bb3a-aaf3e4409bb0" />
 <img width="762" height="705" alt="Screenshot 2026-01-31 at 4 55 53 PM" src="https://github.com/user-attachments/assets/4c1286c5-0f7f-4fd4-be42-4f9010c4ccfb" />
+<img width="680" height="568" alt="Screenshot 2026-01-31 at 11 14 54 PM" src="https://github.com/user-attachments/assets/021ffeb7-521c-40b4-9cfb-f1daf7cc5e32" />
 
 BOM:
 | Designator  | Footprint                                               | Quantity | Designation                 | Link                                                                                                       | Cost   | Total Cost |
