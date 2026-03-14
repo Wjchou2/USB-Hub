@@ -4,6 +4,10 @@ A compact custom USB 2.0 hub PCB based on the USB2514B controller. It features t
 Simply use a USB-C to C cable to plug the hub into your computer, and check that the LED indicator is on. Then connect any USB-A devices and they will show up on your computer.
 I made this project because I have a Mac and never seem to have enough adapters, I also find that I use 4 pin headers often when tinkering with microcontrollers, so I added an easy access 4 pin header integrated into the hub. 
 
+<br>
+<br>
+No firmware needed!
+
 <img width="782" height="543" alt="Screenshot 2026-01-31 at 4 56 15 PM" src="https://github.com/user-attachments/assets/bbd3fe22-d50d-4d83-bb3a-aaf3e4409bb0" />
 <img width="762" height="705" alt="Screenshot 2026-01-31 at 4 55 53 PM" src="https://github.com/user-attachments/assets/4c1286c5-0f7f-4fd4-be42-4f9010c4ccfb" />
 <img width="680" height="568" alt="Screenshot 2026-01-31 at 11 14 54 PM" src="https://github.com/user-attachments/assets/021ffeb7-521c-40b4-9cfb-f1daf7cc5e32" />
