@@ -1,4 +1,4 @@
-# William's USB HUB
+# Endless' USB HUB
 
 A compact custom USB 2.0 hub PCB based on the USB2514B controller. It features two USB-A ports and a 4-pin header breakout for easy integration with embedded systems or custom hardware projects.
 Simply use a USB-C to C cable to plug the hub into your computer, and check that the LED indicator is on. Then connect any USB-A devices and they will show up on your computer.
