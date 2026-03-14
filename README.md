@@ -1,7 +1,6 @@
 # William's USB HUB
 
-A custom usb hub with 2 USB-A ports and a 4 pin header for easy access.
-
+A compact custom USB 2.0 hub PCB based on the USB2514B controller. It features two USB-A ports and a 4-pin header breakout for easy integration with embedded systems or custom hardware projects.
 
 <img width="782" height="543" alt="Screenshot 2026-01-31 at 4 56 15 PM" src="https://github.com/user-attachments/assets/bbd3fe22-d50d-4d83-bb3a-aaf3e4409bb0" />
 <img width="762" height="705" alt="Screenshot 2026-01-31 at 4 55 53 PM" src="https://github.com/user-attachments/assets/4c1286c5-0f7f-4fd4-be42-4f9010c4ccfb" />
